@@ -1,0 +1,24 @@
+{
+  "todolist": [
+    {
+      "id": 1,
+      "isDone": false,
+      "description": "Call out my name"
+    },
+    {
+      "id": 2,
+      "isDone": true,
+      "description": "Estudar a lesson 8"
+    },
+    {
+      "id": 3,
+      "isDone": true,
+      "description": "Evoluir meu charmeleon"
+    },
+    {
+      "id": 4,
+      "isDone": false,
+      "description": "Vamo asfaltar a cidade"
+    }
+  ]
+}
